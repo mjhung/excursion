@@ -26,6 +26,10 @@ h1 {
   text-align: right;
 }
 
+video {
+  object-fit: contain;
+}
+
 p {
   font-family: Verdana;
   font-weight: normal;
